@@ -74,7 +74,7 @@ Housing data
 
 ## Disclaimer
 
-This project is for educational and research purposes only and not for commercial use.
+This project is for educational and research purposes only.
 
 ---
 
